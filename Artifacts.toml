@@ -1,0 +1,8 @@
+[[SZ]]
+arch = "x86_64"
+git-tree-sha1 = "c11331325b31dbf78e687b73f097dd570eaee243"
+os = "windows"
+
+    [[SZ.download]]
+    sha256 = "a9262affb2514add688919a7f7e729105f148d2ca39fad18ba25cb2410678ebe"
+    url = "https://github.com/eschnett/SZ_jll.jl/releases/download/SZ-v2.1.12+1/SZ.v2.1.12.x86_64-w64-mingw32.tar.gz"
